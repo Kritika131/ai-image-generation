@@ -1,0 +1,9 @@
+cloudinary-->use to store our images
+cors-->for cross origin requests
+dotenv--> for storing secrets
+express-->
+mongoose
+openai
+nodemon
+
+// "type":"module"--->this allow same export and import as in react
